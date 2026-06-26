@@ -1,0 +1,6 @@
+{
+  "name": "DeadlineOS AI",
+  "description": "An AI-powered autonomous productivity companion that acts as an active executive partner to beat procrastination, predict deadline risks, and rescue schedules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
